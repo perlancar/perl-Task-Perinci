@@ -34,8 +34,6 @@ This task will install all Sub::Spec modules.
 
 =pkg Sub::Spec::GetArgs::GetPost
 
-=pkg Sub::Spec::GetArgs::PathInfo
-
 =pkg Sub::Spec::HTTP
 
 =pkg Sub::Spec::HTTP::Server
