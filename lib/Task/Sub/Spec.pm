@@ -18,10 +18,6 @@ This task will install all Sub::Spec modules.
 
 =pkg Sub::Spec::BashComplete
 
-=pkg Sub::Spec::ByURI
-
-=pkg Sub::Spec::ByURI::http
-
 =pkg Sub::Spec::CmdLine
 
 =pkg Sub::Spec::Examples
@@ -47,6 +43,10 @@ This task will install all Sub::Spec modules.
 =pkg Sub::Spec::To::Pod
 
 =pkg Sub::Spec::To::Text
+
+=pkg Sub::Spec::URI
+
+=pkg Sub::Spec::URI::http
 
 =pkg Sub::Spec::Use
 
