@@ -22,6 +22,8 @@ This task will install all Sub::Spec modules.
 
 =pkg Sub::Spec::Examples
 
+=pkg Sub::Spec::Exporter
+
 =pkg Sub::Spec::Gen::ReadTable
 
 =pkg Sub::Spec::GetArgs::Argv
@@ -53,5 +55,7 @@ This task will install all Sub::Spec modules.
 =pkg Sub::Spec::URI::http
 
 =pkg Sub::Spec::Use
+
+=pkg Sub::Spec::Wrapper
 
 =cut
