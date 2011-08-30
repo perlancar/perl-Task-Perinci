@@ -34,6 +34,10 @@ This task will install all Sub::Spec modules.
 
 =pkg Sub::Spec::HTTP::Server
 
+=pkg Sub::Spec::Object
+
+=pkg Sub::Spec::Response::Format
+
 =pkg Sub::Spec::Runner
 
 =pkg Sub::Spec::To::HTML
