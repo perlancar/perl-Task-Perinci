@@ -20,6 +20,8 @@ This task will install all Sub::Spec modules.
 
 =pkg Sub::Spec::CmdLine
 
+=pkg Sub::Spec::DepChecker
+
 =pkg Sub::Spec::Examples
 
 =pkg Sub::Spec::Exporter
