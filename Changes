@@ -1,5 +1,12 @@
 Revision history for Task-Sub-Spec
 
+0.02    2011-08-30
+
+        Removed: ByURI::*., GetArgs::PathInfo
+
+        Added: URI::*, Response::Format, Object
+
+
 0.01    2011-08-28
 
         First release.
