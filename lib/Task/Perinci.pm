@@ -19,4 +19,6 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci::Examples
 
+=pkg Perinci::Object
+
 =cut
