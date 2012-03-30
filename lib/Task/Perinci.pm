@@ -13,6 +13,10 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci
 
+=pkg Perinci::Access::HTTP::Client
+
+=pkg Perinci::Access::HTTP::Server
+
 =pkg Perinci::BashComplete
 
 =pkg Perinci::Examples
