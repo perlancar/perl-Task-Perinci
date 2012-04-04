@@ -1,5 +1,10 @@
 Revision history for Task-Perinci
 
+0.05    2012-04-04
+
+        - Update list of modules (add Access::HTTP::{Client,Server}).
+
+
 0.04    2012-03-23
 
         - Update list of modules.
