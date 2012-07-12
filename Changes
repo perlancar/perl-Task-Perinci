@@ -1,27 +1,33 @@
 Revision history for Task-Perinci
 
-0.05    2012-04-04
+0.06    2012-07-12 (SHARYANTO)
+
+        - Update list of modules (add
+          Perinci::Sub::Gen::{Undoable,AccessTable::DBI}).
+
+
+0.05    2012-04-04 (SHARYANTO)
 
         - Update list of modules (add Access::HTTP::{Client,Server}).
 
 
-0.04    2012-03-23
+0.04    2012-03-23 (SHARYANTO)
 
         - Update list of modules.
 
 
-0.03    2012-01-26
+0.03    2012-01-26 (SHARYANTO)
 
         Rename distribution from Task-Sub-Spec to Task-Perinci.
 
 
-0.02    2011-08-30
+0.02    2011-08-30 (SHARYANTO)
 
         Removed: ByURI::*., GetArgs::PathInfo
 
         Added: URI::*, Response::Format, Object
 
 
-0.01    2011-08-28
+0.01    2011-08-28 (SHARYANTO)
 
         First release.
