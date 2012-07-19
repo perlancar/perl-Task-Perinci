@@ -1,5 +1,10 @@
 Revision history for Task-Perinci
 
+0.07    2012-07-19 (SHARYANTO)
+
+        - Update list of modules (add Perinci::Access::TCP::{Server,Client}).
+
+
 0.06    2012-07-12 (SHARYANTO)
 
         - Update list of modules (add
