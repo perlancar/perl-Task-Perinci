@@ -1,5 +1,10 @@
 Revision history for Task-Perinci
 
+0.09    2012-08-10 (SHARYANTO)
+
+        - Update list of modules (case changes, split of Perinci).
+
+
 0.08    2012-08-02 (SHARYANTO)
 
         - Update list of modules (rename Perinci::Access::TCP::{Server,Client}
