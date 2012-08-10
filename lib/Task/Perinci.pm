@@ -13,9 +13,15 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci
 
+=pkg Perinci::Access
+
+=pkg Perinci::Access::Base
+
 =pkg Perinci::Access::HTTP::Client
 
 =pkg Perinci::Access::HTTP::Server
+
+=pkg Perinci::Access::InProcess
 
 =pkg Perinci::Access::Simple::Client
 
@@ -25,15 +31,23 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci::BashComplete
 
+=pkg Perinci::Easy
+
 =pkg Perinci::Examples
 
 =pkg Perinci::Exporter
 
 =pkg Perinci::Object
 
+=pkg Perinci::Result::Format
+
 =pkg Perinci::Sub::ConvertArgs::Array
 
+=pkg Perinci::Sub::Dep::pm
+
 =pkg Perinci::Sub::DepChecker
+
+=pkg Perinci::Sub::Gen
 
 =pkg Perinci::Sub::Gen::AccessTable
 
@@ -45,17 +59,17 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci::Sub::GetArgs::Array
 
-=pkg Perinci::Sub::property::curry
+=pkg Perinci::Sub::Property::curry
 
-=pkg Perinci::Sub::property::dies_on_error
+=pkg Perinci::Sub::Property::dies_on_error
 
-=pkg Perinci::Sub::property::drops_privilege
+=pkg Perinci::Sub::Property::drops_privilege
 
-=pkg Perinci::Sub::property::result_postfilter
+=pkg Perinci::Sub::Property::result_postfilter
 
-=pkg Perinci::Sub::property::retry
+=pkg Perinci::Sub::Property::retry
 
-=pkg Perinci::Sub::property::timeout
+=pkg Perinci::Sub::Property::timeout
 
 =pkg Perinci::Sub::Wrapper
 
@@ -64,6 +78,8 @@ This task will install all Perinci:: modules.
 =pkg Perinci::To::POD
 
 =pkg Perinci::To::Text
+
+=pkg Perinci::Tx::Manager
 
 =pkg Perinci::Use
 
