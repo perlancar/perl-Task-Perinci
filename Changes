@@ -1,5 +1,11 @@
 Revision history for Task-Perinci
 
+0.10    2012-11-27 (SHARYANTO)
+
+        - Update list of modules (remove old module
+          Perinci::Sub::Gen::Undoable).
+
+
 0.09    2012-08-10 (SHARYANTO)
 
         - Update list of modules (case changes, split of Perinci).
