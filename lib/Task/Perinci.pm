@@ -53,8 +53,6 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci::Sub::Gen::AccessTable::DBI
 
-=pkg Perinci::Sub::Gen::Undoable
-
 =pkg Perinci::Sub::GetArgs::Argv
 
 =pkg Perinci::Sub::GetArgs::Array
