@@ -39,7 +39,7 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci::Exporter
 
-=pkg Perinci::Gen::ForModules
+=pkg Perinci::Gen::ForModule
 
 =pkg Perinci::Object
 
@@ -73,9 +73,9 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci::Sub::PropertyUtil
 
-=pkg Perinci::Sub::Wrapper
+# =pkg Perinci::Sub::To::ReForm
 
-=pkg Perinci::To::ReForm
+=pkg Perinci::Sub::Wrapper
 
 =pkg Perinci::To::HTML
 
