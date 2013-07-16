@@ -25,17 +25,21 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci::Access::Simple::Client
 
-=pkg Perinci::Access::Simple::Server::Pipe
-
-=pkg Perinci::Access::Simple::Server::Socket
+=pkg Perinci::Access::Simple::Server
 
 =pkg Perinci::BashComplete
+
+=pkg Perinci::CmdLine
 
 =pkg Perinci::Easy
 
 =pkg Perinci::Examples
 
+=pkg Perinci::Examples::Bin
+
 =pkg Perinci::Exporter
+
+=pkg Perinci::Gen::ForModules
 
 =pkg Perinci::Object
 
@@ -63,13 +67,15 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci::Sub::Property::drops_privilege
 
-=pkg Perinci::Sub::Property::result_postfilter
-
 =pkg Perinci::Sub::Property::retry
 
 =pkg Perinci::Sub::Property::timeout
 
+=pkg Perinci::Sub::PropertyUtil
+
 =pkg Perinci::Sub::Wrapper
+
+=pkg Perinci::To::ReForm
 
 =pkg Perinci::To::HTML
 
@@ -83,10 +89,14 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci::Util
 
+=pkg Perinci::Web
+
 =pkg Pod::Weaver::Plugin::Perinci
 
 =pkg Riap
 
 =pkg Rinci
+
+=pkg Rinci::Schema
 
 =cut
