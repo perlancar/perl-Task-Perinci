@@ -1,5 +1,11 @@
 Revision history for Task-Perinci
 
+0.12    2013-09-08 (SHARYANTO)
+
+        - Update list of modules (replace Perinci::Access::InProcess with
+          Perinci::Access::Perl).
+
+
 0.11    2013-07-16 (SHARYANTO)
 
         - Update list of modules.
