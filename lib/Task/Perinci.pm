@@ -21,7 +21,7 @@ This task will install all Perinci:: modules.
 
 =pkg Perinci::Access::HTTP::Server
 
-=pkg Perinci::Access::InProcess
+=pkg Perinci::Access::Perl
 
 =pkg Perinci::Access::Simple::Client
 
