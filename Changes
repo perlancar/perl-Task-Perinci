@@ -1,5 +1,10 @@
 Revision history for Task-Perinci
 
+0.15    2013-09-14 (SHARYANTO)
+
+        - Rename (again) {,Gen::}Test::Rinci::FuncResult.
+
+
 0.14    2013-09-14 (SHARYANTO)
 
         - Update list of modules (renamed Test::Rinci::{GenFuncTest,FuncResult}).
