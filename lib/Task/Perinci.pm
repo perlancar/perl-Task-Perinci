@@ -99,4 +99,8 @@ This task will install all Perinci:: modules.
 
 =pkg Rinci::Schema
 
+=pkg Test::Rinci
+
+=pkg Test::Rinci::Gen::FuncTest
+
 =cut
