@@ -1,5 +1,10 @@
 Revision history for Task-Perinci
 
+0.13    2013-09-14 (SHARYANTO)
+
+        - Update list of modules (add Test::Rinci & Test::Rinci::GenFuncTest).
+
+
 0.12    2013-09-08 (SHARYANTO)
 
         - Update list of modules (replace Perinci::Access::InProcess with
