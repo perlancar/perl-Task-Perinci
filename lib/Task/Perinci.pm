@@ -3,11 +3,11 @@ package Task::Perinci;
 # VERSION
 
 1;
-# ABSTRACT: Install all Perinci:: modules
+# ABSTRACT: Install all Perinci-related modules
 
 =head1 DESCRIPTION
 
-This task will install all Perinci:: modules.
+This task will install all Perinci-related modules.
 
 =pkgroup Included modules
 
@@ -101,6 +101,6 @@ This task will install all Perinci:: modules.
 
 =pkg Test::Rinci
 
-=pkg Test::Rinci::GenFuncTest
+=pkg Test::Rinci::FuncResult
 
 =cut
