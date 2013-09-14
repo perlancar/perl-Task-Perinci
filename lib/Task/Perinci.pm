@@ -101,6 +101,6 @@ This task will install all Perinci-related modules.
 
 =pkg Test::Rinci
 
-=pkg Test::Rinci::FuncResult
+=pkg Gen::Test::Rinci::FuncResult
 
 =cut
