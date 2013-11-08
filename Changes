@@ -1,5 +1,11 @@
 Revision history for Task-Perinci
 
+0.16    2013-11-08 (SHARYANTO)
+
+        - Update (::Sub::Complete replaces ::BashComplete,
+          +::Sub::ConvertArgs::Array).
+
+
 0.15    2013-09-14 (SHARYANTO)
 
         - Rename (again) {,Gen::}Test::Rinci::FuncResult.

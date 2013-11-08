@@ -27,8 +27,6 @@ This task will install all Perinci-related modules.
 
 =pkg Perinci::Access::Simple::Server
 
-=pkg Perinci::BashComplete
-
 =pkg Perinci::CmdLine
 
 =pkg Perinci::Easy
@@ -45,7 +43,11 @@ This task will install all Perinci-related modules.
 
 =pkg Perinci::Result::Format
 
+=pkg Perinci::Sub::Complete
+
 =pkg Perinci::Sub::ConvertArgs::Array
+
+=pkg Perinci::Sub::ConvertArgs::Argv
 
 =pkg Perinci::Sub::Dep::pm
 
